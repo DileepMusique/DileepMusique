@@ -1,0 +1,135 @@
+PART: 1
+
+{ĊBĊA} {EE} {AĊ}
+(Am)Ye Kashtam Yedurochina
+
+{ĊBĊA} {EE} {AĊ}
+(F)Kanneellu Yedirinchina
+
+{ĊBĊ} {AA} {BAB} {GG} 
+(Am)Aanamdam (Em)Ane ulyala(F)lo
+
+{GGB} {AGE}
+Nanu Penchina(Am)
+
+{EDC} {E.. ĖĖ}
+Nannaku (Am)Prematho(Em)
+
+{ĠḞĖ} {ḊĊ#Ḋ}
+Nannaku (Dm)Prematho(G)
+
+{BAG} {AĖĖ} {ḊĊ#Ḋ} 
+Nannaku (Am)Prematho (Dm)Ankitham
+
+{BBḊ} {ĊĊ}
+(F)Naa Prathi (Am)Kshanam
+
+PART: 2
+
+ {E}        {ĊBĊA} {EE} {AĊ}
+Ne..(Am)ney Darilo Vellinaa
+
+{ĊBĊA} {EE} {AĊ}
+(F)Ye Addu Nannaapina
+
+{ĊBĊ} {AA} {BAB} {GG} 
+(Am)Nee Venata (Em)Ne Nunnana(F)ni
+
+{GGB} {AGE}
+Nanu Nadipinchina(Am)
+
+{BAG} {A.. ĖĖ}
+Nannaku (Am)Prematho(Em)
+
+{ĠḞĖ} {ḊĊ#Ḋ}
+Nannaku (Dm)Prematho(G)
+
+{BAG} {AĖĖ} {ḊĊ#Ḋ} 
+Nannaku (Am)Prematho (Dm)Ankitham
+
+{BBḊ} {ĊĊ}
+(F)Naa Prathi (Am)Kshanam
+
+PART: 3
+
+{ĊBĊA} {EE} {AĊ}
+Ye(Am) Thappu ne chesina
+
+{ĊBĊA} {EE} {ḊĊ}
+(F)Thappatadugule vesina
+
+{ĊBĊ} {AA} {BAB} {GG} 
+(Am)O chinni (Em)chirunavvuthone
+
+{GGB} {AGE}
+(F)Nanu mannichina(Am)
+
+{EDC} {E.. ĖĖ}
+Nannaku (Am)Prematho(Em)
+
+{ĠḞĖ} {ḊĊ#Ḋ}
+Nannaku (Dm)Prematho(G)
+
+{BAG} {AĖĖ} {ḊĊ#Ḋ} 
+Nannaku (Am)Prematho (Dm)Ankitham
+
+{BBḊ} {ĊĊ}
+(F)Naa Prathi (Am)Kshanam
+
+PART: 4
+{Ė..ĖĖĖ} {ḊĊ#Ḋ}
+(Am)Ye oosu ne (Dm)cheppina
+
+{ĊĊBA} {ABḊĊ}
+Ye (G)pata ne (C)padina
+
+{ĊBĊ} {AA} {BAB} {GG} 
+(Am)Bhale Undhi (Em)Malli Padara
+
+{GGB} {AGE}
+(F)Ani murisipoina(Dm)
+
+{EDC} {E.. ĖĖ}
+Nannaku (Am)Prematho(Em)
+
+{ĠḞĖ} {ḊĊ#Ḋ}
+Nannaku (Dm)Prematho(G)
+
+{BAG} {AĖĖ} {ḊĊ#Ḋ} 
+Nannaku (Am)Prematho (Dm)Ankitham
+
+{BBḊ} {ĊĊ}
+(F)Naa Prathi (Am)Kshanam
+
+PART: 5
+
+{Ė..ĖĖ} {ḊĊ#Ḋ}
+(Am)Ee Andhamai(Dm)na
+
+{ĊĊBA} {ABḊĊ}
+(F)Rangula (E)Lokana
+
+{ĊBĊ} {AA} {BAB} {GG} 
+(Am)Oke Janmalo (Em)Vandha Janmalaku
+
+{GGB} {AGE}
+(F)Premandhinchina(Dm)
+
+{EDC} {E.. ĖĖ}
+Nannaku (Am)Prematho(Em)
+
+{ĠḞĖ} {ḊĊ#Ḋ}
+Nannaku (Dm)Prematho(G)
+
+{BAG} {AĖĖ} {ḊĊ#Ḋ} 
+Nannaku (Am)Prematho (Dm)Ankitham
+
+{BBḊ} {ĊĊ}
+(F)Naa Prathi (Am)Kshanam
+
+{BḊḊĊ} {A}
+(F)Ee Pata(Am)tho
+
+{BḊḊĊ} {A}
+(F)Ee Pata(Am)tho….
+

@@ -1,0 +1,114 @@
+INTRO:
+
+A B D E D E E
+A B E A F#
+
+VERSE 1:
+
+F# F# E F# F# E
+F# F# E F# E
+F# F# E F# F# E
+E D E F# B
+F# E F# F# E F# A
+F# E F# F# E
+F# F# F# F# A
+F# F# E E
+
+PRE-CHORUS:
+
+D D E F# A E E
+D E F# A E E
+D E F# A E E E
+D E E E
+E F# G F# E
+
+G F# B
+G F# F# E
+G F# B B E
+G F# F# E
+G F# A
+D E
+
+
+CHORUS:
+
+D B B B F# F# A
+D D A A A G F# F# E
+D D A A A G F# F# E
+D E F# E B
+D B B B F# F# A
+D D A A A G F# F# E
+D D A A A G F# F# E
+C# B C# C# B
+A F# A B
+A B A F# A B A
+B A F# A B
+B A F# A B A F#
+F# F# D D D C# C# C# B
+C# B C# B C# B
+
+VERSE 2:
+
+F# F# F# E F# E
+E E F# B
+F# F# F# E F# E
+A A A B F# F# E
+C# C# C# C# C# D E B
+B B D F# E
+A A A B A F#
+A C# C# C#
+
+PRE-CHORUS:
+
+D D E F# A D E E
+D E F# A E E
+D E F# A E E E
+D E E E E F# B
+
+G F# B
+G F# F# E
+G F# B B E
+G F# F# E
+G F# A
+D E
+
+
+CHORUS:
+
+D B B B F# F# A
+D D A A A G F# F# E
+D D A A A G F# F# E
+D E F# E B
+D B B B F# F# A
+D D A A A G F# F# E
+D D A A A G F# F# E
+C# B C# C# B
+
+BRIDGE:
+
+D E F# E D D B
+C# C# C# C# C# C# D
+D E F# E D D B
+C# C# C# C# C# C# D
+D E F# E D A F#
+E E E E E E F#
+B C# D C# B B C#
+E E E E E A A B
+C# C# B A
+
+CHORUS:
+
+D B B B F# F# A
+D D A A A G F# F# E
+D D A A A G F# F# E
+D E F# E B
+D B B B F# F# A
+D D A A A G F# F# E
+D D A A A G F# F# E
+C# B C# C# B
+A F# A B
+A B A F# A B A
+B A F# A B
+B A F# A B A F#
+F# F# D D D C# C# C# B
+C# B C# B C# B
