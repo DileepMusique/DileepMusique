@@ -48,7 +48,7 @@ ul li{
   
 
   #myInput {
-    background-image: url("https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png"); /* Add a search icon to input */
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png'); /* Add a search icon to input */
     background-position: 0px 0px; /* Position the search icon */
      /* Do not repeat the icon image */
     width: 100%; /* Full-width */
